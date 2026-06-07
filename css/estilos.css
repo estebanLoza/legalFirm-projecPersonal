@@ -184,7 +184,7 @@ article#home > section:nth-child(1) {
       rgba(26, 26, 50, 0.9),
       rgba(26, 26, 50, 0.9)
     ),
-    url(/Proyecto2/images/gavel-book.jpg);
+    url(images/gavel-book.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
